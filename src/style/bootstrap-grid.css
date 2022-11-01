@@ -1,0 +1,13 @@
+.row-example {
+      margin-top: calc(var(--typography-spacing-vertical) * 2);
+      margin-bottom: calc(var(--typography-spacing-vertical) * 2);
+    }
+
+.col-example {
+      margin-bottom: 30px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      background: var(--secondary);
+      color: var(--secondary-inverse);
+      text-align: center;
+    }
